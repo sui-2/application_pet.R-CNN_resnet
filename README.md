@@ -1,4 +1,8 @@
+
 # application_pet.R-CNN_resnet
+---
+<img width="1122" height="504" alt="スクリーンショット (16)" src="https://github.com/user-attachments/assets/8c05fda1-1d2e-400c-a8e3-a55152a5a24b" />
+
 ---
 【システム起動方法】
 
