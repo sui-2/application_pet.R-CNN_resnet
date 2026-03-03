@@ -1,14 +1,16 @@
 
 # application_pet.R-CNN_resnet
----
+
 <img width="1122" height="504" alt="スクリーンショット (16)" src="https://github.com/user-attachments/assets/8c05fda1-1d2e-400c-a8e3-a55152a5a24b" />
 
----
+
 # Overview
 This application allows users to process animal face images by selecting and applying various items. 
 The app works by integrating a Python-based ML model with a FastAPI backend.
 
 As a member of a 4-person machine learning team responsible for face and landmark detection, I focused on the landmark detection model, which identifies 9 key points on a pet's face.
+
+**@sui-2 :** pet_app/backend/resnet_map4.py
 
 ---
 ## How to Start the System
